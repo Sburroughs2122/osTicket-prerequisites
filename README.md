@@ -3,3 +3,5 @@
   - {osTicket ticket assignment}(https://imgur.com/a/2vX5e2H)
   # Environments and Technologies used
 - Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
