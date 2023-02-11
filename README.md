@@ -5,3 +5,5 @@
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- # Operation System Used
+- Windows 10 (21HZ)
