@@ -7,3 +7,7 @@
 - Internet Information Services (IIS)
 - # Operation System Used
 - Windows 10 (21HZ)
+- # Project overview 
+- Download, install and configure osTicket
+- Setup Ticket properties, SLAs, departments, permissions, users
+- Use as both administrator and user
