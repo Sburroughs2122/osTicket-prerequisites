@@ -11,3 +11,4 @@
 - Download, install and configure osTicket
 - Setup Ticket properties, SLAs, departments, permissions, users
 - Use as both administrator and user
+- Ticket assignment and ticket closure
