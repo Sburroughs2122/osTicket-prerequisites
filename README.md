@@ -11,4 +11,4 @@
 - Setup Ticket properties, SLAs, departments, permissions, users
 - Use as both administrator and user
 - Ticket assignment and ticket closure
- (https://i.imgur.com/uesxmeA.png)
+ ![image](https://i.imgur.com/uesxmeA.png)
